@@ -1,0 +1,19 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql://root:@localhost,3306/vineetthakranblog",
+    "prod_uri": "mysql://root:@localhost,3306/vineetthakranblog",
+    "fb_url": "https://facebook.com/vineetthakranblog",
+    "tw_url": "https://twitter.com/vineetthakranblog",
+    "gt_url": "https://github.com/vineetthakranblog",
+    "gmail-user": "vineet1234thakran@gmail.com",
+    "gmail-password":"Vineet@8816",
+    "no_of_posts": 5
+
+
+  }
+
+
+
+}
